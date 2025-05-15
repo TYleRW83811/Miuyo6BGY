@@ -1,5 +1,4 @@
 ## Qix
-
 Copyright (C) 2020 https://github.com/ty4z2008/Qix
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
